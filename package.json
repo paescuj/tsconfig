@@ -1,6 +1,6 @@
 {
 	"name": "@directus/tsconfig",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"description": "TS Config used in Directus projects",
 	"main": "index.js",
 	"keywords": [
